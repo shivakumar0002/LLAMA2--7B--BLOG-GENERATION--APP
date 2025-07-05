@@ -33,4 +33,4 @@ streamlit run /Users/godipally.shivakumar/Desktop/LLAMA/app.py
 
 ## Example Output
 
-![LLAMA 2 Chatbot Screenshot](screenshot.png)
+![LLAMA 2 Chatbot Screenshot](Screenshot.png)
